@@ -1,0 +1,6 @@
+{
+  "name": "Matemática em Colunas - Valor Posicional",
+  "description": "Jogo educativo de cálculo em colunas e valor posicional: Unidades, Dezenas, Centenas, Milhar, Dezena de Milhar e Centena de Milhar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
